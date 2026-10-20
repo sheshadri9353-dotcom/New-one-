@@ -16,4 +16,10 @@ print("My first project is on GitHub.")
 a=int(input("enter the first number:")
 b=int(input("enter the second number:")
 sum=a+b
+sub=a-b
+div=a/b
+mul=a*b
 print("the sum is:",sum)
+print("the sub is:",subtraction)
+print("the div is:",division)
+print("the mul is:",multiplication)
